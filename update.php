@@ -3,7 +3,7 @@
 <head>
     <title>Form Pendaftaran mahasiswa</title>
     <!-- Load file CSS Bootstrap offline -->
-    <link rel="stylesheet" href="bootstrap/css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/bootstrap.min.css">
 
 </head>
 <body>
